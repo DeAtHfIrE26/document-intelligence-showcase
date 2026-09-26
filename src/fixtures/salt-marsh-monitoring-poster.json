@@ -1,0 +1,60 @@
+{
+ "document": {
+  "id": "salt-marsh-monitoring-poster",
+  "title": "Salt Marsh Monitoring Poster (image)",
+  "description": "Image of a field sign next to the marsh sensors. Text is read with OCR.",
+  "fileName": "salt-marsh-monitoring-poster.png",
+  "fileType": "png",
+  "mimeType": "image/png",
+  "sizeBytes": 41928,
+  "language": "en",
+  "wordCount": 28,
+  "origin": "synthetic"
+ },
+ "chunks": [
+  {
+   "index": 0,
+   "start": 0,
+   "end": 190,
+   "text": "MERROW ESTUARY SALT MARSH MONITORING Please do not disturb the sensors. They measure wave height and sediment. Tidewater Resilience Lab with the Merrow Estuary Trust Questions: Samuel Achebe"
+  }
+ ],
+ "entities": [
+  {
+   "id": 1,
+   "text": "MERROW ESTUARY SALT MARSH MONITORING Please",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 0,
+   "end": 43,
+   "chunkIndex": 0
+  },
+  {
+   "id": 2,
+   "text": "Tidewater Resilience Lab",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 111,
+   "end": 135,
+   "chunkIndex": 0
+  },
+  {
+   "id": 3,
+   "text": "the Merrow Estuary Trust Questions",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 141,
+   "end": 175,
+   "chunkIndex": 0
+  },
+  {
+   "id": 4,
+   "text": "Samuel Achebe",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 177,
+   "end": 190,
+   "chunkIndex": 0
+  }
+ ]
+}

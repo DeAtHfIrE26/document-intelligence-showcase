@@ -1,0 +1,336 @@
+{
+ "document": {
+  "id": "tide-gauge-data-summary",
+  "title": "Harbour Tide Gauge: Annual Data Summary",
+  "description": "Sea-level trend, highest recorded water levels and overtopping days since 1952.",
+  "fileName": "tide-gauge-data-summary.txt",
+  "fileType": "txt",
+  "mimeType": "text/plain",
+  "sizeBytes": 818,
+  "language": "en",
+  "wordCount": 151,
+  "origin": "synthetic"
+ },
+ "chunks": [
+  {
+   "index": 0,
+   "start": 0,
+   "end": 512,
+   "text": "PORT MERROW HARBOUR TIDE GAUGE - ANNUAL DATA SUMMARY Tidewater Resilience Lab. Data processed by Samuel Achebe. Record length: 1952 to present (72 years), gaps in 1963 and 1977. Long-term trend in mean sea level: +2.9 mm per year. Trend since 1993: +4.1 mm per year. Total rise since 1952: about 21 cm. Highest recorded water levels (above mean high water springs): 1. 1.34 m - the great storm of 1987 2. 1.18 m - winter 2014 3. 1.11 m - 1953 4. 1.02 m - autumn 2020 5. 0.97 m - 1990 Number of days per year with"
+  },
+  {
+   "index": 1,
+   "start": 384,
+   "end": 812,
+   "text": "eat storm of 1987 2. 1.18 m - winter 2014 3. 1.11 m - 1953 4. 1.02 m - autumn 2020 5. 0.97 m - 1990 Number of days per year with water above the lowest section of the harbour wall: 1960s: 0.3 days per year 1990s: 1.1 days per year 2010s: 3.4 days per year Note: the rise in overtopping days is driven by both higher mean sea level and settlement of the wall. See the flood risk baseline (TRL-2024-03). Fictional sample document."
+  }
+ ],
+ "entities": [
+  {
+   "id": 1,
+   "text": "GAUGE",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 25,
+   "end": 30,
+   "chunkIndex": 0
+  },
+  {
+   "id": 2,
+   "text": "Samuel Achebe",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 97,
+   "end": 110,
+   "chunkIndex": 0
+  },
+  {
+   "id": 3,
+   "text": "1952",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 127,
+   "end": 131,
+   "chunkIndex": 0
+  },
+  {
+   "id": 4,
+   "text": "72 years",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 144,
+   "end": 152,
+   "chunkIndex": 0
+  },
+  {
+   "id": 5,
+   "text": "1963",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 163,
+   "end": 167,
+   "chunkIndex": 0
+  },
+  {
+   "id": 6,
+   "text": "1977",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 172,
+   "end": 176,
+   "chunkIndex": 0
+  },
+  {
+   "id": 7,
+   "text": "+2.9 mm",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 213,
+   "end": 220,
+   "chunkIndex": 0
+  },
+  {
+   "id": 8,
+   "text": "1993",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 243,
+   "end": 247,
+   "chunkIndex": 0
+  },
+  {
+   "id": 9,
+   "text": "+4.1 mm",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 249,
+   "end": 256,
+   "chunkIndex": 0
+  },
+  {
+   "id": 10,
+   "text": "1952",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 284,
+   "end": 288,
+   "chunkIndex": 0
+  },
+  {
+   "id": 11,
+   "text": "about 21 cm",
+   "type": "QUANTITY",
+   "confidence": 0.85,
+   "start": 290,
+   "end": 301,
+   "chunkIndex": 0
+  },
+  {
+   "id": 12,
+   "text": "1",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 366,
+   "end": 367,
+   "chunkIndex": 0
+  },
+  {
+   "id": 13,
+   "text": "1.34",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 369,
+   "end": 373,
+   "chunkIndex": 0
+  },
+  {
+   "id": 14,
+   "text": "1987 2",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 397,
+   "end": 403,
+   "chunkIndex": 0
+  },
+  {
+   "id": 15,
+   "text": "1987 2",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 397,
+   "end": 403,
+   "chunkIndex": 1
+  },
+  {
+   "id": 16,
+   "text": "1.18",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 405,
+   "end": 409,
+   "chunkIndex": 0
+  },
+  {
+   "id": 17,
+   "text": "1.18",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 405,
+   "end": 409,
+   "chunkIndex": 1
+  },
+  {
+   "id": 18,
+   "text": "3",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 426,
+   "end": 427,
+   "chunkIndex": 0
+  },
+  {
+   "id": 19,
+   "text": "3",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 426,
+   "end": 427,
+   "chunkIndex": 1
+  },
+  {
+   "id": 20,
+   "text": "1.11",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 429,
+   "end": 433,
+   "chunkIndex": 0
+  },
+  {
+   "id": 21,
+   "text": "1.11",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 429,
+   "end": 433,
+   "chunkIndex": 1
+  },
+  {
+   "id": 22,
+   "text": "1.02",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 446,
+   "end": 450,
+   "chunkIndex": 0
+  },
+  {
+   "id": 23,
+   "text": "1.02",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 446,
+   "end": 450,
+   "chunkIndex": 1
+  },
+  {
+   "id": 24,
+   "text": "2020 5",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 462,
+   "end": 468,
+   "chunkIndex": 0
+  },
+  {
+   "id": 25,
+   "text": "2020 5",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 462,
+   "end": 468,
+   "chunkIndex": 1
+  },
+  {
+   "id": 26,
+   "text": "0.97",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 470,
+   "end": 474,
+   "chunkIndex": 0
+  },
+  {
+   "id": 27,
+   "text": "0.97",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 470,
+   "end": 474,
+   "chunkIndex": 1
+  },
+  {
+   "id": 28,
+   "text": "1960s",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 565,
+   "end": 570,
+   "chunkIndex": 1
+  },
+  {
+   "id": 29,
+   "text": "0.3 days",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 572,
+   "end": 580,
+   "chunkIndex": 1
+  },
+  {
+   "id": 30,
+   "text": "year 1990s",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 585,
+   "end": 595,
+   "chunkIndex": 1
+  },
+  {
+   "id": 31,
+   "text": "1.1 days",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 597,
+   "end": 605,
+   "chunkIndex": 1
+  },
+  {
+   "id": 32,
+   "text": "3.4 days",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 622,
+   "end": 630,
+   "chunkIndex": 1
+  },
+  {
+   "id": 33,
+   "text": "overtopping days",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 658,
+   "end": 674,
+   "chunkIndex": 1
+  },
+  {
+   "id": 34,
+   "text": "TRL-2024-03",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 772,
+   "end": 783,
+   "chunkIndex": 1
+  }
+ ]
+}

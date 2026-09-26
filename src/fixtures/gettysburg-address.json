@@ -1,0 +1,132 @@
+{
+ "document": {
+  "id": "gettysburg-address",
+  "title": "The Gettysburg Address",
+  "description": "Abraham Lincoln's address at the dedication of the Soldiers' National Cemetery, November 19, 1863 (Bliss copy).",
+  "fileName": "gettysburg-address.txt",
+  "fileType": "txt",
+  "mimeType": "text/plain",
+  "sizeBytes": 1659,
+  "language": "en",
+  "wordCount": 290,
+  "origin": "public-domain"
+ },
+ "chunks": [
+  {
+   "index": 0,
+   "start": 0,
+   "end": 512,
+   "text": "The Gettysburg Address Abraham Lincoln, November 19, 1863 Delivered at the dedication of the Soldiers' National Cemetery, Gettysburg, Pennsylvania. Text of the Bliss copy. Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-fi"
+  },
+  {
+   "index": 1,
+   "start": 384,
+   "end": 896,
+   "text": " war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this. But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated i"
+  },
+  {
+   "index": 2,
+   "start": 768,
+   "end": 1280,
+   "text": "cate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from the"
+  },
+  {
+   "index": 3,
+   "start": 1152,
+   "end": 1640,
+   "text": "re have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people, shall not perish from the earth. Abraham Lincoln"
+  }
+ ],
+ "entities": [
+  {
+   "id": 1,
+   "text": "The Gettysburg Address",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 0,
+   "end": 22,
+   "chunkIndex": 0
+  },
+  {
+   "id": 2,
+   "text": "Abraham Lincoln",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 23,
+   "end": 38,
+   "chunkIndex": 0
+  },
+  {
+   "id": 3,
+   "text": "November 19, 1863",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 40,
+   "end": 57,
+   "chunkIndex": 0
+  },
+  {
+   "id": 4,
+   "text": "Gettysburg",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 122,
+   "end": 132,
+   "chunkIndex": 0
+  },
+  {
+   "id": 5,
+   "text": "Pennsylvania",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 134,
+   "end": 146,
+   "chunkIndex": 0
+  },
+  {
+   "id": 6,
+   "text": "Bliss",
+   "type": "NORP",
+   "confidence": 0.85,
+   "start": 160,
+   "end": 165,
+   "chunkIndex": 0
+  },
+  {
+   "id": 7,
+   "text": "Four",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 172,
+   "end": 176,
+   "chunkIndex": 0
+  },
+  {
+   "id": 8,
+   "text": "seven years ago",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 187,
+   "end": 202,
+   "chunkIndex": 0
+  },
+  {
+   "id": 9,
+   "text": "Liberty",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 275,
+   "end": 282,
+   "chunkIndex": 0
+  },
+  {
+   "id": 10,
+   "text": "Abraham Lincoln",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 1625,
+   "end": 1640,
+   "chunkIndex": 3
+  }
+ ]
+}

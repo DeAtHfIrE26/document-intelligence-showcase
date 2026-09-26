@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="entities">
+  <rect width="48" height="48" rx="12" fill="#8a5cf6" fill-opacity="0.16"/>
+  <rect x="0.75" y="0.75" width="46.5" height="46.5" rx="11.25" fill="none" stroke="#8a5cf6" stroke-opacity="0.45" stroke-width="1.5"/>
+  <g fill="none" stroke="#8a5cf6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" color="#8a5cf6"><path d="M13 16h9l12 12-8 8-12-12z"/><circle cx="18" cy="21" r="1.8" fill="currentColor"/></g>
+</svg>

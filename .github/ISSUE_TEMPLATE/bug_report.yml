@@ -1,0 +1,30 @@
+name: Bug report
+description: Something in the playground or a component doesn't work as expected
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the playground
+        2. Click "The Gettysburg Address"
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and OS
+      placeholder: Firefox 131 on Windows 11
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or console output

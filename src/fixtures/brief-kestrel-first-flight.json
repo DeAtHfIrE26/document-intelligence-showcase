@@ -1,0 +1,147 @@
+{
+ "document": {
+  "id": "brief-kestrel-first-flight",
+  "title": "News: Kestrel drones fly first survey over Port Merrow",
+  "description": "Residents watch the first coastal survey flights.",
+  "fileName": "brief-kestrel-first-flight.txt",
+  "fileType": "txt",
+  "mimeType": "text/plain",
+  "sizeBytes": 695,
+  "language": "en",
+  "wordCount": 119,
+  "origin": "synthetic"
+ },
+ "chunks": [
+  {
+   "index": 0,
+   "start": 0,
+   "end": 512,
+   "text": "MERROW HARBOUR LEDGER - NEWS BRIEF Kestrel drones fly first survey over Port Merrow Early risers on the harbour front on Tuesday saw two white drones lift off vertically from the harbour car park, tilt forward and head out over the estuary. The Kestrel drones, built by Northwind Aerospace, flew for nearly eight hours over two days to map the harbour wall, the dunes and the salt marsh for the Tidewater Resilience Lab. The survey confirmed the low points in the harbour wall next to the fish market and the sli"
+  },
+  {
+   "index": 1,
+   "start": 384,
+   "end": 690,
+   "text": "sh for the Tidewater Resilience Lab. The survey confirmed the low points in the harbour wall next to the fish market and the slipway, and found that the northern dunes have moved inland since 2009. Results will go to Merrow Harbor Council engineers who are designing the wall repairs. Fictional news brief."
+  }
+ ],
+ "entities": [
+  {
+   "id": 1,
+   "text": "MERROW HARBOUR LEDGER - NEWS",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 0,
+   "end": 28,
+   "chunkIndex": 0
+  },
+  {
+   "id": 2,
+   "text": "first",
+   "type": "ORDINAL",
+   "confidence": 0.85,
+   "start": 54,
+   "end": 59,
+   "chunkIndex": 0
+  },
+  {
+   "id": 3,
+   "text": "Port Merrow",
+   "type": "FAC",
+   "confidence": 0.85,
+   "start": 72,
+   "end": 83,
+   "chunkIndex": 0
+  },
+  {
+   "id": 4,
+   "text": "Tuesday",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 121,
+   "end": 128,
+   "chunkIndex": 0
+  },
+  {
+   "id": 5,
+   "text": "two",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 133,
+   "end": 136,
+   "chunkIndex": 0
+  },
+  {
+   "id": 6,
+   "text": "Kestrel",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 245,
+   "end": 252,
+   "chunkIndex": 0
+  },
+  {
+   "id": 7,
+   "text": "Northwind Aerospace",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 270,
+   "end": 289,
+   "chunkIndex": 0
+  },
+  {
+   "id": 8,
+   "text": "nearly eight hours",
+   "type": "TIME",
+   "confidence": 0.85,
+   "start": 300,
+   "end": 318,
+   "chunkIndex": 0
+  },
+  {
+   "id": 9,
+   "text": "two days",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 324,
+   "end": 332,
+   "chunkIndex": 0
+  },
+  {
+   "id": 10,
+   "text": "the Tidewater Resilience Lab",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 391,
+   "end": 419,
+   "chunkIndex": 0
+  },
+  {
+   "id": 11,
+   "text": "the Tidewater Resilience Lab",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 391,
+   "end": 419,
+   "chunkIndex": 1
+  },
+  {
+   "id": 12,
+   "text": "2009",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 576,
+   "end": 580,
+   "chunkIndex": 1
+  },
+  {
+   "id": 13,
+   "text": "Merrow Harbor Council",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 601,
+   "end": 622,
+   "chunkIndex": 1
+  }
+ ]
+}

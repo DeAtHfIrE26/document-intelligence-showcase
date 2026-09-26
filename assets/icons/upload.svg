@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="upload">
+  <rect width="48" height="48" rx="12" fill="#3d8bfd" fill-opacity="0.16"/>
+  <rect x="0.75" y="0.75" width="46.5" height="46.5" rx="11.25" fill="none" stroke="#3d8bfd" stroke-opacity="0.45" stroke-width="1.5"/>
+  <g fill="none" stroke="#3d8bfd" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" color="#3d8bfd"><path d="M24 30V14"/><path d="m17 20 7-7 7 7"/><path d="M13 30v4a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2v-4"/></g>
+</svg>

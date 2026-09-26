@@ -1,0 +1,624 @@
+{
+ "document": {
+  "id": "grant-and-appomattox",
+  "title": "Ulysses S. Grant and the Surrender at Appomattox",
+  "description": "Original article on Grant's command and Lee's surrender, April 9, 1865.",
+  "fileName": "grant-and-appomattox.txt",
+  "fileType": "txt",
+  "mimeType": "text/plain",
+  "sizeBytes": 1886,
+  "language": "en",
+  "wordCount": 314,
+  "origin": "original-article"
+ },
+ "chunks": [
+  {
+   "index": 0,
+   "start": 0,
+   "end": 512,
+   "text": "ULYSSES S. GRANT AND THE SURRENDER AT APPOMATTOX In March 1864, President Abraham Lincoln promoted Ulysses S. Grant to lieutenant general and gave him command of all the Union armies. Grant had won the war's first major Union victories in the West, at Fort Donelson in 1862 and at Vicksburg in July 1863. According to a later account by the journalist Alexander McClure, Lincoln defended him with a simple reason: \"I can't spare this man; he fights.\" Through 1864 and early 1865 Grant pressed Robert E. Lee's Arm"
+  },
+  {
+   "index": 1,
+   "start": 384,
+   "end": 896,
+   "text": "ded him with a simple reason: \"I can't spare this man; he fights.\" Through 1864 and early 1865 Grant pressed Robert E. Lee's Army of Northern Virginia without pause, in the Overland Campaign and the long siege of Petersburg. When Petersburg and Richmond fell in early April 1865, Lee's weakened army retreated west, hoping to join Confederate forces in North Carolina. Union troops blocked the way near Appomattox Court House, Virginia. On April 9, 1865, Lee met Grant in the parlour of Wilmer McLean's house at "
+  },
+  {
+   "index": 2,
+   "start": 768,
+   "end": 1280,
+   "text": "ocked the way near Appomattox Court House, Virginia. On April 9, 1865, Lee met Grant in the parlour of Wilmer McLean's house at Appomattox Court House and surrendered his army. Grant's terms were generous, in keeping with Lincoln's wish for reconciliation: the Confederate soldiers were paroled and allowed to go home, officers kept their sidearms, and men who owned horses or mules could take them home for the spring planting. Grant also sent rations to the hungry Confederate troops. When Union soldiers began"
+  },
+  {
+   "index": 3,
+   "start": 1152,
+   "end": 1664,
+   "text": "ould take them home for the spring planting. Grant also sent rations to the hungry Confederate troops. When Union soldiers began to celebrate, Grant is reported to have stopped them, saying that the rebels were their countrymen again. Five days later, on April 14, Lincoln was shot at Ford's Theatre in Washington; he died the next morning. Grant went on to serve two terms as the eighteenth President of the United States, from 1869 to 1877. Near the end of his life, ill with throat cancer and in financial rui"
+  },
+  {
+   "index": 4,
+   "start": 1536,
+   "end": 1880,
+   "text": "hteenth President of the United States, from 1869 to 1877. Near the end of his life, ill with throat cancer and in financial ruin, he wrote his Personal Memoirs, published by Mark Twain's firm in 1885. They are still regarded as one of the finest military memoirs in the English language. Original article based on the public historical record."
+  }
+ ],
+ "entities": [
+  {
+   "id": 1,
+   "text": "ULYSSES S. GRANT",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 0,
+   "end": 16,
+   "chunkIndex": 0
+  },
+  {
+   "id": 2,
+   "text": "March 1864",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 52,
+   "end": 62,
+   "chunkIndex": 0
+  },
+  {
+   "id": 3,
+   "text": "Abraham Lincoln",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 74,
+   "end": 89,
+   "chunkIndex": 0
+  },
+  {
+   "id": 4,
+   "text": "Ulysses S. Grant",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 99,
+   "end": 115,
+   "chunkIndex": 0
+  },
+  {
+   "id": 5,
+   "text": "Union",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 170,
+   "end": 175,
+   "chunkIndex": 0
+  },
+  {
+   "id": 6,
+   "text": "first",
+   "type": "ORDINAL",
+   "confidence": 0.85,
+   "start": 208,
+   "end": 213,
+   "chunkIndex": 0
+  },
+  {
+   "id": 7,
+   "text": "West",
+   "type": "LOC",
+   "confidence": 0.85,
+   "start": 243,
+   "end": 247,
+   "chunkIndex": 0
+  },
+  {
+   "id": 8,
+   "text": "Fort Donelson",
+   "type": "FAC",
+   "confidence": 0.85,
+   "start": 252,
+   "end": 265,
+   "chunkIndex": 0
+  },
+  {
+   "id": 9,
+   "text": "1862",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 269,
+   "end": 273,
+   "chunkIndex": 0
+  },
+  {
+   "id": 10,
+   "text": "Vicksburg",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 281,
+   "end": 290,
+   "chunkIndex": 0
+  },
+  {
+   "id": 11,
+   "text": "July 1863",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 294,
+   "end": 303,
+   "chunkIndex": 0
+  },
+  {
+   "id": 12,
+   "text": "Alexander McClure",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 352,
+   "end": 369,
+   "chunkIndex": 0
+  },
+  {
+   "id": 13,
+   "text": "Lincoln",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 371,
+   "end": 378,
+   "chunkIndex": 0
+  },
+  {
+   "id": 14,
+   "text": "1864",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 459,
+   "end": 463,
+   "chunkIndex": 0
+  },
+  {
+   "id": 15,
+   "text": "1864",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 459,
+   "end": 463,
+   "chunkIndex": 1
+  },
+  {
+   "id": 16,
+   "text": "early 1865",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 468,
+   "end": 478,
+   "chunkIndex": 0
+  },
+  {
+   "id": 17,
+   "text": "early 1865",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 468,
+   "end": 478,
+   "chunkIndex": 1
+  },
+  {
+   "id": 18,
+   "text": "Robert E. Lee's",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 493,
+   "end": 508,
+   "chunkIndex": 0
+  },
+  {
+   "id": 19,
+   "text": "Robert E. Lee's",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 493,
+   "end": 508,
+   "chunkIndex": 1
+  },
+  {
+   "id": 20,
+   "text": "the Overland Campaign",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 553,
+   "end": 574,
+   "chunkIndex": 1
+  },
+  {
+   "id": 21,
+   "text": "Petersburg",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 597,
+   "end": 607,
+   "chunkIndex": 1
+  },
+  {
+   "id": 22,
+   "text": "Petersburg",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 614,
+   "end": 624,
+   "chunkIndex": 1
+  },
+  {
+   "id": 23,
+   "text": "Richmond",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 629,
+   "end": 637,
+   "chunkIndex": 1
+  },
+  {
+   "id": 24,
+   "text": "early April 1865",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 646,
+   "end": 662,
+   "chunkIndex": 1
+  },
+  {
+   "id": 25,
+   "text": "Lee",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 664,
+   "end": 667,
+   "chunkIndex": 1
+  },
+  {
+   "id": 26,
+   "text": "Confederate",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 715,
+   "end": 726,
+   "chunkIndex": 1
+  },
+  {
+   "id": 27,
+   "text": "North Carolina",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 737,
+   "end": 751,
+   "chunkIndex": 1
+  },
+  {
+   "id": 28,
+   "text": "Appomattox Court House",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 787,
+   "end": 809,
+   "chunkIndex": 1
+  },
+  {
+   "id": 29,
+   "text": "Appomattox Court House",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 787,
+   "end": 809,
+   "chunkIndex": 2
+  },
+  {
+   "id": 30,
+   "text": "Virginia",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 811,
+   "end": 819,
+   "chunkIndex": 1
+  },
+  {
+   "id": 31,
+   "text": "Virginia",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 811,
+   "end": 819,
+   "chunkIndex": 2
+  },
+  {
+   "id": 32,
+   "text": "April 9, 1865",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 824,
+   "end": 837,
+   "chunkIndex": 1
+  },
+  {
+   "id": 33,
+   "text": "April 9, 1865",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 824,
+   "end": 837,
+   "chunkIndex": 2
+  },
+  {
+   "id": 34,
+   "text": "Lee",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 839,
+   "end": 842,
+   "chunkIndex": 1
+  },
+  {
+   "id": 35,
+   "text": "Lee",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 839,
+   "end": 842,
+   "chunkIndex": 2
+  },
+  {
+   "id": 36,
+   "text": "Grant",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 847,
+   "end": 852,
+   "chunkIndex": 1
+  },
+  {
+   "id": 37,
+   "text": "Grant",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 847,
+   "end": 852,
+   "chunkIndex": 2
+  },
+  {
+   "id": 38,
+   "text": "Wilmer McLean's",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 871,
+   "end": 886,
+   "chunkIndex": 1
+  },
+  {
+   "id": 39,
+   "text": "Wilmer McLean's",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 871,
+   "end": 886,
+   "chunkIndex": 2
+  },
+  {
+   "id": 40,
+   "text": "Appomattox Court House",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 896,
+   "end": 918,
+   "chunkIndex": 2
+  },
+  {
+   "id": 41,
+   "text": "Grant",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 945,
+   "end": 950,
+   "chunkIndex": 2
+  },
+  {
+   "id": 42,
+   "text": "Lincoln",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 990,
+   "end": 997,
+   "chunkIndex": 2
+  },
+  {
+   "id": 43,
+   "text": "Confederate",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 1029,
+   "end": 1040,
+   "chunkIndex": 2
+  },
+  {
+   "id": 44,
+   "text": "the spring",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 1176,
+   "end": 1186,
+   "chunkIndex": 2
+  },
+  {
+   "id": 45,
+   "text": "the spring",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 1176,
+   "end": 1186,
+   "chunkIndex": 3
+  },
+  {
+   "id": 46,
+   "text": "Confederate",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 1235,
+   "end": 1246,
+   "chunkIndex": 2
+  },
+  {
+   "id": 47,
+   "text": "Confederate",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 1235,
+   "end": 1246,
+   "chunkIndex": 3
+  },
+  {
+   "id": 48,
+   "text": "Grant",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 1295,
+   "end": 1300,
+   "chunkIndex": 3
+  },
+  {
+   "id": 49,
+   "text": "Five days later",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 1387,
+   "end": 1402,
+   "chunkIndex": 3
+  },
+  {
+   "id": 50,
+   "text": "April 14",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 1407,
+   "end": 1415,
+   "chunkIndex": 3
+  },
+  {
+   "id": 51,
+   "text": "Lincoln",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 1417,
+   "end": 1424,
+   "chunkIndex": 3
+  },
+  {
+   "id": 52,
+   "text": "Ford",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 1437,
+   "end": 1441,
+   "chunkIndex": 3
+  },
+  {
+   "id": 53,
+   "text": "Theatre",
+   "type": "ORG",
+   "confidence": 0.85,
+   "start": 1444,
+   "end": 1451,
+   "chunkIndex": 3
+  },
+  {
+   "id": 54,
+   "text": "Washington",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 1455,
+   "end": 1465,
+   "chunkIndex": 3
+  },
+  {
+   "id": 55,
+   "text": "the next morning",
+   "type": "TIME",
+   "confidence": 0.85,
+   "start": 1475,
+   "end": 1491,
+   "chunkIndex": 3
+  },
+  {
+   "id": 56,
+   "text": "two",
+   "type": "CARDINAL",
+   "confidence": 0.85,
+   "start": 1516,
+   "end": 1519,
+   "chunkIndex": 3
+  },
+  {
+   "id": 57,
+   "text": "eighteenth",
+   "type": "ORDINAL",
+   "confidence": 0.85,
+   "start": 1533,
+   "end": 1543,
+   "chunkIndex": 3
+  },
+  {
+   "id": 58,
+   "text": "the United States",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 1557,
+   "end": 1574,
+   "chunkIndex": 3
+  },
+  {
+   "id": 59,
+   "text": "the United States",
+   "type": "GPE",
+   "confidence": 0.85,
+   "start": 1557,
+   "end": 1574,
+   "chunkIndex": 4
+  },
+  {
+   "id": 60,
+   "text": "1869 to 1877",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 1581,
+   "end": 1593,
+   "chunkIndex": 3
+  },
+  {
+   "id": 61,
+   "text": "1869 to 1877",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 1581,
+   "end": 1593,
+   "chunkIndex": 4
+  },
+  {
+   "id": 62,
+   "text": "Mark Twain's",
+   "type": "PERSON",
+   "confidence": 0.85,
+   "start": 1711,
+   "end": 1723,
+   "chunkIndex": 4
+  },
+  {
+   "id": 63,
+   "text": "1885",
+   "type": "DATE",
+   "confidence": 0.85,
+   "start": 1732,
+   "end": 1736,
+   "chunkIndex": 4
+  },
+  {
+   "id": 64,
+   "text": "English",
+   "type": "LANGUAGE",
+   "confidence": 0.85,
+   "start": 1807,
+   "end": 1814,
+   "chunkIndex": 4
+  }
+ ]
+}
