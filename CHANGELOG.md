@@ -4,7 +4,7 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the project
 uses [Semantic Versioning](https://semver.org/).
 
-## [1.0.0] - 2026-09-26
+## 1.0.0 - 2026-09-26
 
 ### Added
 
@@ -20,5 +20,3 @@ uses [Semantic Versioning](https://semver.org/).
   scanning.
 - Contributing guide, code of conduct, security policy, issue and pull
   request templates, and a roadmap with good first issues.
-
-[1.0.0]: https://github.com/DeAtHfIrE26/document-intelligence-showcase/releases/tag/v1.0.0
