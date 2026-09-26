@@ -364,7 +364,7 @@ back to keyword and graph results immediately.
 
 ## Roadmap
 
-See [ROADMAP.md](ROADMAP.md). Good first issues include keyboard navigation
+See [ROADMAP.md](ROADMAP.md) for what's next and [CHANGELOG.md](CHANGELOG.md) for what's shipped. Good first issues include keyboard navigation
 between highlights, CSV export of the entity table, and a confidence
 threshold slider.
 
